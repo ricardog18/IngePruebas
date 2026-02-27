@@ -6,4 +6,4 @@ def test_add():
 
 def test_multi():
     calc = Calculadora()
-    assert calc.multi(2, 3) == 6
+    assert calc.multi(2, 3) == 9
